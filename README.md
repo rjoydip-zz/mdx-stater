@@ -1,10 +1,9 @@
 # mdx-starter
 
-A stater template for MDX.
+A stater template for MDX. [mdx](https://github.com/mdx-js/mdx)
 
 ## Requirement
 
-- [mdx](https://github.com/mdx-js/mdx)
 - [next](https://github.com/zeit/next.js)
 
 ## Instalation
