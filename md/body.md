@@ -5,6 +5,4 @@ import Footer from './footer.md';
 
 ## Welcome
 
-Stars: 
-
 <Footer />

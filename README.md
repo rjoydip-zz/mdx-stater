@@ -1,20 +1,19 @@
-# mdx-simple-example
+# mdx-starter
 
-A simple example of mdx library.
+A stater template for MDX.
 
 ## Requirement
 
+- [mdx](https://github.com/mdx-js/mdx)
 - [next](https://github.com/zeit/next.js)
 
 ## Instalation
 
 ```sh
-$ git clone https://github.com/rjoydip/mdx-simple-example.git
-$ cd mdx-simple-example
+$ git clone https://github.com/rjoydip/mdx-starter.git
+$ cd mdx-starter
 $ npm install
 $ npm run dev
 ```
 
-Thats it.
-
-***Enjoy!***
+Thats it :smile:.
